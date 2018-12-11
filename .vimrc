@@ -94,6 +94,7 @@ set wrap
 "set nu
 "set spell spelllang=en_us
 set colorcolumn=80
+set number
 syntax on
 
 colorscheme desert
